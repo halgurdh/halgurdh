@@ -1,5 +1,5 @@
 # 💫 About Me:
-In my spare time I like to work on personal projects, on myself and my daily routines.<br>In June 2017 I graduated with a Bachelor in Software Engineering at <br>the Hogeschool: "Windesheim Flevoland" in Almere. <br>In the meantime, I have 5 years of experience as a software engineer.
+In my spare time I like to work on personal projects, on myself and my daily routines.<br>In June 2017 I graduated with a Bachelor in Software Engineering at <br>the Hogeschool: "Windesheim Flevoland" in Almere. <br>In the meantime, I have 6 years of experience as a software engineer.
 
 
 ## 🌐 Socials:
