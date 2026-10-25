@@ -1,5 +1,8 @@
 # 💫 About Me:
-In my spare time I like to work on personal projects, on myself and my daily routines.<br>In June 2017 I graduated with a Bachelor in Software Engineering at <br>the Hogeschool: "Windesheim Flevoland" in Almere. <br> After graduation i started working professionally as a Software Engineer.
+In my spare time I like to work on personal projects, on myself and my daily routines.
+In June 2017 I graduated with a Bachelor in Software Engineering at the Hogeschool: "Windesheim Flevoland" in Almere, The Netherlands. 
+After graduation I started working profesionally as a Software Engineer. 
+I am specialized in the Microsoft EcoSystem, like C#, .NET, Azure and more.
 
 
 ## 🌐 Socials:
