@@ -4,6 +4,8 @@ In June 2017 I graduated with a Bachelor in Software Engineering at the Hogescho
 After graduation I started working profesionally as a Software Engineer. 
 I am specialized in the Microsoft EcoSystem, like C#, .NET, Azure and more.
 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/halgurdh)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lofi.allgood) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halgurdhussein) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCphudYz0DxkskQGke7qhQvQ) 
@@ -20,8 +22,5 @@ I am specialized in the Microsoft EcoSystem, like C#, .NET, Azure and more.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=halgurdh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/halgurdh) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/chilledpunks) 
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
